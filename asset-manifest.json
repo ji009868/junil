@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/small-towns/static/css/main.7bf58094.css",
-    "main.js": "/small-towns/static/js/main.af09bb5e.js",
+    "main.js": "/small-towns/static/js/main.4d37c7bc.js",
     "static/js/453.6fd4dd51.chunk.js": "/small-towns/static/js/453.6fd4dd51.chunk.js",
     "index.html": "/small-towns/index.html",
     "main.7bf58094.css.map": "/small-towns/static/css/main.7bf58094.css.map",
-    "main.af09bb5e.js.map": "/small-towns/static/js/main.af09bb5e.js.map",
+    "main.4d37c7bc.js.map": "/small-towns/static/js/main.4d37c7bc.js.map",
     "453.6fd4dd51.chunk.js.map": "/small-towns/static/js/453.6fd4dd51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bf58094.css",
-    "static/js/main.af09bb5e.js"
+    "static/js/main.4d37c7bc.js"
   ]
 }
