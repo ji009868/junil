@@ -1,0 +1,63 @@
+/* 배경 */
+body {
+  font-family: 'Pretendard Variable', sans-serif;
+  background-color: #fafafa;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* 제목 스타일 */
+h1,
+h2,
+h3 {
+  font-family: 'Pretendard Variable', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-top: 0;
+}
+
+/* 버튼 공통 스타일 */
+button {
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #111;
+  color: #fff;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+/* 이미지 공통 스타일 */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 카드 컴포넌트 공통 */
+.card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+/* 섹션 여백 */
+.section {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
