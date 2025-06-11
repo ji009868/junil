@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/junil/static/css/main.7bf58094.css",
+    "main.js": "/junil/static/js/main.d0b2463e.js",
+    "static/js/453.6fd4dd51.chunk.js": "/junil/static/js/453.6fd4dd51.chunk.js",
+    "index.html": "/junil/index.html",
+    "main.7bf58094.css.map": "/junil/static/css/main.7bf58094.css.map",
+    "main.d0b2463e.js.map": "/junil/static/js/main.d0b2463e.js.map",
+    "453.6fd4dd51.chunk.js.map": "/junil/static/js/453.6fd4dd51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf58094.css",
+    "static/js/main.d0b2463e.js"
+  ]
+}
